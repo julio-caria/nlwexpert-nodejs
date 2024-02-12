@@ -17,7 +17,7 @@ As tecnologias utilizadas estão listadas abaixo:
     volumes - salvamento de arquivos dentro de um container na máquina.
     `docker ps`
     `docker compose up -d`
-- PostegreSQL
+- PostgreSQL
 - Redis
 
 ### Formas de conexão com banco de dados
